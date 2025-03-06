@@ -1,4 +1,4 @@
-# 🚦 Waze Traffic Analysis: Predicting Traffic Congestion Using Machine Learning
+# 🚦 Waze Traffic Analysis: Predicting Traffic User Churn
 
 ## 📌 Project Overview
 
